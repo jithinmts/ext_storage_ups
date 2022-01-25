@@ -9,7 +9,7 @@ if your using null-safe you can use this
 dependencies:
   ext_storage:
     git:
-      url: git://github.com/lavahasif/ext_storage_ups.git
+      url: git://github.com/priyesh-bit/ext_storage_ups.git
 ```
 
 https://pub.dev/packages/ext_storage
